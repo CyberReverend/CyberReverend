@@ -1,6 +1,6 @@
-# Marcus Bowie aka "*CyberReverend*"
+# Hi, I'm Marcus Bowie aka "*CyberReverend*" 
 
-![CyberReverend's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberReverend&show_icons=true&theme=tokyonight)
+![CyberReverend's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberReverend&show_icons=true&theme=dark)
 
 ## About Me
 > I am a **Cyber Security Engineer** with a passion for the **BlueTeam/Defense** side of the house. I am the Founder and COO of [MaxProd Technologies](https://www.maxprodtech.org/). I possess 12+ years of experience in Information Technology. I have supported several cyber missions performing **Security Operations**, **Digital Forensics**, **Endpoint Threat Detection**, **Security Engineering**, **Penetration Testing** and **Workforce Development**.
