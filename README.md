@@ -2,10 +2,13 @@
 ## About Me
 > I am a **Cyber Security Engineer** with a passion for the **BlueTeam/Defense** side of the house. I am the Founder and COO of [MaxProd Technologies](https://www.maxprodtech.org/). I possess 12+ years of experience in Information Technology. I have supported several cyber missions performing **Security Operations**, **Digital Forensics**, **Endpoint Threat Detection**, **Security Engineering**, **Penetration Testing** and **Workforce Development**.
 
-[youtube]: https://www.youtube.com/@maxprodtechnologies1027
-[twitter]: https://twitter.com/ComandanteBowie
-[LinkedIn]: https://www.linkedin.com/in/maxprod-technologies-686226227/
-[LinkedIn]: https://www.linkedin.com/in/marcus-bowie-383a21b1/
+## Connect With Me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/ComandanteBowie#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/marcus-bowie-383a21b1/)
+&nbsp;nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@maxprodtechnologies1027)
 
 ---
 ## Welcome
@@ -25,6 +28,10 @@ Below are the following projects that I have/am worked/working on:
 + [Pokemon Pentetration Testing Script](https://github.com/CyberReverend/Penetration-Testing)
 
 
+[youtube]: https://www.youtube.com/@maxprodtechnologies1027
+[twitter]: https://twitter.com/ComandanteBowie
+[LinkedIn]: https://www.linkedin.com/in/maxprod-technologies-686226227/
+[LinkedIn1]: https://www.linkedin.com/in/marcus-bowie-383a21b1/
 <!--
 **CyberReverend/CyberReverend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
