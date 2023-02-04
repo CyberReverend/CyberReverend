@@ -2,6 +2,11 @@
 ## About Me
 > I am a **Cyber Security Engineer** with a passion for the **BlueTeam/Defense** side of the house. I am the Founder and COO of [MaxProd Technologies](https://www.maxprodtech.org/). I possess 12+ years of experience in Information Technology. I have supported several cyber missions performing **Security Operations**, **Digital Forensics**, **Endpoint Threat Detection**, **Security Engineering**, **Penetration Testing** and **Workforce Development**.
 
+[youtube]: https://www.youtube.com/@maxprodtechnologies1027
+[twitter]: https://twitter.com/ComandanteBowie
+[LinkedIn]: https://www.linkedin.com/in/maxprod-technologies-686226227/
+[LinkedIn]: https://www.linkedin.com/in/marcus-bowie-383a21b1/
+
 ---
 ## Welcome
 Welcome to my github page. Here you will find content in the following domains:
