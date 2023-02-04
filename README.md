@@ -4,11 +4,11 @@
 
 ## Connect With Me:
 
-[Twitter](https://twitter.com/ComandanteBowie#gh-light-mode-only)
+[Twitter](https://twitter.com/ComandanteBowie)
 
-[LinkedIn](https://www.linkedin.com/in/marcus-bowie-383a21b1/gh-light-mode-only)
+[LinkedIn](https://www.linkedin.com/in/marcus-bowie-383a21b1/)
 
-[YouTube](https://www.youtube.com/@maxprodtechnologies1027gh-light-mode-only)
+[YouTube](https://www.youtube.com/@maxprodtechnologies1027)
 
 ---
 ## Welcome
