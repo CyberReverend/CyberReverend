@@ -17,6 +17,7 @@ Below are the following projects that I have/am worked/working on:
 + [SOC-1T-2-Me](https://github.com/maendeleolab/SOC-It-2-Me)
 + [MaxProd Cyber Labs](https://github.com/CyberReverend/MaxProd-Labs)
 + [Error Messages That Irritated a Security Engineer](https://github.com/CyberReverend/Error-Messages-That-Irritated-a-Security-Engineer)
++ [Pokemon Pentetration Testing Script](https://github.com/CyberReverend/Penetration-Testing)
 
 
 <!--
