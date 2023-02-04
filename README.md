@@ -4,11 +4,11 @@
 
 ## Connect With Me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/ComandanteBowie#gh-light-mode-only)
+[Twitter](https://twitter.com/ComandanteBowie#gh-light-mode-only)
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/marcus-bowie-383a21b1/gh-light-mode-only)
+[LinkedIn](https://www.linkedin.com/in/marcus-bowie-383a21b1/gh-light-mode-only)
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@maxprodtechnologies1027gh-light-mode-only)
+[YouTube](https://www.youtube.com/@maxprodtechnologies1027gh-light-mode-only)
 
 ---
 ## Welcome
