@@ -4,11 +4,8 @@
 
 ## Connect With Me:
 
-[Twitter](https://twitter.com/ComandanteBowie)
+[Twitter](https://twitter.com/ComandanteBowie) | [LinkedIn](https://www.linkedin.com/in/marcus-bowie-383a21b1/) | [YouTube](https://www.youtube.com/@maxprodtechnologies1027)
 
-[LinkedIn](https://www.linkedin.com/in/marcus-bowie-383a21b1/)
-
-[YouTube](https://www.youtube.com/@maxprodtechnologies1027)
 
 ---
 ## Welcome
