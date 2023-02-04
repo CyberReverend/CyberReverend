@@ -5,10 +5,10 @@
 ## Connect With Me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/ComandanteBowie#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/marcus-bowie-383a21b1/)
-&nbsp;nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@maxprodtechnologies1027)
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/marcus-bowie-383a21b1/gh-light-mode-only)
+
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@maxprodtechnologies1027gh-light-mode-only)
 
 ---
 ## Welcome
