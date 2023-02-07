@@ -34,6 +34,8 @@ Below are the following projects that I have/am worked/working on:
 [twitter]: https://twitter.com/ComandanteBowie
 [LinkedIn]: https://www.linkedin.com/in/maxprod-technologies-686226227/
 [LinkedIn1]: https://www.linkedin.com/in/marcus-bowie-383a21b1/
+  
+</body>
 <!--
 **CyberReverend/CyberReverend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
